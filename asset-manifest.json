@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.83263359.css",
-    "main.js": "/static/js/main.2470e431.js",
+    "main.js": "/static/js/main.2b8dbfa6.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/profile_pic.jpg": "/static/media/profile_pic.c23854faa12ed72dfb58.jpg",
     "static/media/cartoon_girl.png": "/static/media/cartoon_girl.c0319060372f0b71466c.png",
     "static/media/logo_react.png": "/static/media/logo_react.8a6fc0a24a800d1e0f4a.png",
     "static/media/logo_chakra_ui.png": "/static/media/logo_chakra_ui.d661b07fc524c537de55.png",
-    "static/media/logo_ms_excel.png": "/static/media/logo_ms_excel.7e0a6ded72c1f15eea2f.png",
+    "static/media/logo_typescript.png": "/static/media/logo_typescript.1e3902edbe4c3f2970d8.png",
     "static/media/logo_apps_script.png": "/static/media/logo_apps_script.71dd115a476726cd12b4.png",
     "static/media/montserrat-latin-wght-normal.woff2": "/static/media/montserrat-latin-wght-normal.5028c63f6a70ab0cf7cb.woff2",
     "static/media/logo_html.png": "/static/media/logo_html.77ad8f18070c1340bfc2.png",
@@ -26,11 +26,11 @@
     "static/media/logo_bigquery.svg": "/static/media/logo_bigquery.f7c3f2ae53286a06dfbb664e10a0fa33.svg",
     "index.html": "/index.html",
     "main.83263359.css.map": "/static/css/main.83263359.css.map",
-    "main.2470e431.js.map": "/static/js/main.2470e431.js.map",
+    "main.2b8dbfa6.js.map": "/static/js/main.2b8dbfa6.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83263359.css",
-    "static/js/main.2470e431.js"
+    "static/js/main.2b8dbfa6.js"
   ]
 }
